@@ -1,3 +1,23 @@
+This application includes the following features realted to text manipulation. These are:
+capitalization of text and  vice versa, copying of text, removing the extra spaces in a paragraph, have dark and light mode functionalities and many more..
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
